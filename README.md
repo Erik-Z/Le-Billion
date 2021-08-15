@@ -1,4 +1,4 @@
-# lebillion
+# LeBillion
 
 > A web forum
 >Hosted at: https://lebillion-2297b.firebaseapp.com/
@@ -19,4 +19,5 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## What is it?
+LeBillion is a web forum. User can create, view and comment on threads. These threads can support images, hyperlinks and various other markup features. 
